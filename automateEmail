@@ -3,9 +3,9 @@ import smtplib
 import ssl
 from email.message import EmailMessage
 
-email_sender = 'jinny.yun28@gmail.com'
-email_password = ''
-email_receiver = ''
+email_sender = 'sender's email address'
+email_password = 'yourpassword'
+email_receiver = 'receiver's email address'
 
 
 subject = 'automate email'
